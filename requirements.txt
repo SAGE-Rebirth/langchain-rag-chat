@@ -1,0 +1,26 @@
+# Core packages
+streamlit
+langchain
+langchain-community 
+langchain-huggingface 
+faiss-cpu
+huggingface_hub
+sentence-transformers
+
+# File handling
+PyPDF2
+python-docx
+
+# Performance and async
+fastapi
+uvicorn
+
+# Environment variables
+dotenv
+
+# Optional: for vector storage (in-memory for now, but can be extended)
+#faiss-cpu
+
+# For typing and dev
+python-dotenv
+tqdm
